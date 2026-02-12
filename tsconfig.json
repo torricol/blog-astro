@@ -11,6 +11,9 @@
     "paths": {
       "@components/*": [
         "./src/components/*"
+      ],
+      "@scripts/*": [
+        "./src/scripts/*"
       ]
     }
   }
